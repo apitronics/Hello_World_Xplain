@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Hello_World_Xplain", "Hello_World_Xplain\Hello_World_Xplain.cproj", "{F5EC5744-DDB4-4B81-93FA-77F2D3A7F99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EC5744-DDB4-4B81-93FA-77F2D3A7F99D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F5EC5744-DDB4-4B81-93FA-77F2D3A7F99D}.Debug|ARM.Build.0 = Debug|ARM
+		{F5EC5744-DDB4-4B81-93FA-77F2D3A7F99D}.Release|ARM.ActiveCfg = Release|ARM
+		{F5EC5744-DDB4-4B81-93FA-77F2D3A7F99D}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
